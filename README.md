@@ -10,6 +10,7 @@ A smart, hands-free desktop assistant that listens to your voice commands and pe
 * **Web Search & Information Retrieval** – Ask questions and get instant spoken responses.
 * **Custom Commands** – Easily add new trigger words and actions.
 * **Lightweight Interface** – Simple GUI or tray-based assistant (depending on your setup).
+* **Custom Voicepacks** - Create your personal voicepacks.
 
 # Technologies Used
 
